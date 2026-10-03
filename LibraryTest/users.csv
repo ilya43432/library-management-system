@@ -1,0 +1,2 @@
+username,password
+test_user,scrypt:32768:8:1$fba7I80Gkp2cX4HY$060aa196887cd61956318195db07a8df716ca9a32332ef86402a040afc7a18cf6d9ba177c009bdea63a28bfbcd184629124f6a2aefacfbe16fba6ece5b7d8029

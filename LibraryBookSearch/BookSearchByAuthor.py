@@ -1,0 +1,12 @@
+from LibraryBookSearch.BookSearch import BookSearch
+
+
+class BookSearchByAuthor(BookSearch):
+
+
+    def search(self,books, keyword):
+        result = []
+        for book in books:
+            if keyword.lower() in book.author.lower():
+                result.append(book)
+        return result

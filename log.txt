@@ -1,0 +1,6 @@
+2025-01-24 16:15:37,089 - logged in successfully
+2025-01-24 16:15:47,037 - Book added successfully
+2025-01-24 16:15:50,791 - Displayed available books successfully
+2025-01-24 16:15:53,044 - Displayed category books successfully
+2025-01-24 16:15:55,859 - Displayed popular books successfully.
+2025-01-24 16:15:58,725 - log out successful
